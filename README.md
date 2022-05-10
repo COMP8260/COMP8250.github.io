@@ -1,1 +1,1 @@
-# COMP8250.github.io
+# COMP8260.github.io
